@@ -7,7 +7,15 @@ The data used was on peer-to-peer lending and from a peer-to-peer lending compan
 ### Info about variable that I was trying to predict
 The variable that was being predicted is loan status. This variable is a binary variable coded as 0 if the loan is healthy, and 1 if the loan is at a high risk of default.
 ### Stages of the machine learning process and methods used
+Two machine learning models were used 
 
+## Results
+### Machine learning model using logistic regression
+-Accuracy
+-Precision
+-Recall
+
+### Machine learning model using logistic regression and oversampling
 
 
 
