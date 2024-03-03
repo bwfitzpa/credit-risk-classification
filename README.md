@@ -11,8 +11,9 @@ Two machine learning models were used
 
 ## Results
 ### Machine learning model using logistic regression
--Accuracy
--
+* Accuracy
+* Precision
+* Recall 
 
 ### Machine learning model using logistic regression and oversampling
 
